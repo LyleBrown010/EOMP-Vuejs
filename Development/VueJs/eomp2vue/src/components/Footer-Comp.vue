@@ -1,4 +1,5 @@
 <template>
+<br>
     <div class="footer">
         <div>&copy; 2023</div>
         <div class="social-icons">
@@ -17,6 +18,9 @@ export default {
     .footer{
     background-color: black;
     overflow: hidden;
+    height: 60px;
+    padding: 20px;
 }
+
     
-</style>
+</style> 
