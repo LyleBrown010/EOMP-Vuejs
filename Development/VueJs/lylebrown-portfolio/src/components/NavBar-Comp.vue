@@ -25,7 +25,7 @@ export default {
     border-radius: 12px;
     margin-left: 10%;
     margin-right: 10%;
-    margin-top: 1%;
+    margin-top: 22%;
 }
 
 #links{
